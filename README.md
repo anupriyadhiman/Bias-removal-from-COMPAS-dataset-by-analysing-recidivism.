@@ -5,9 +5,9 @@ Project based on responsible AI
 -The COMPAS algorithm, or the Correctional Offender Management Profiling for Alternative Sanctions, is a risk assessment tool used in the criminal justice system to predict the likelihood of reoffending or failure to appear in court. 
 -The judges and probation officers are progressively utilizing calculations to evaluate a crook respondent's probability of turning into a recidivist. 
 -Recidivist is the term used to describe criminals who re-offend. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###Methodology
+Methodology
 
 1. Data Pre-processing : Raw data --> Featuring Engineering
 2. Model without PII features: Logistic Regression 
